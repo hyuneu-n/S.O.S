@@ -16,7 +16,9 @@ class PostViewSet(viewsets.ModelViewSet):
         if self.action == 'list' or 'retrieve':
             return PostSerializer
         return PostCreateSerializer
-
+    def perform_create(self, serializer):
+        serializer.save(author=self.request.user)
+        
 class CommentViewSet(viewsets.ModelViewSet):
     queryset = Comment.objects.all()
     permission_classes = [CustomReadOnly]
