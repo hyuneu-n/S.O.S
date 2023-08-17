@@ -1,10 +1,8 @@
 from rest_framework import serializers
 
-from users.serializers import ProfileSerializer
 from .models import Post, Comment
 
 class CommentSerializer(serializers.ModelSerializer):
-    profile = ProfileSerializer(read_only=True)
     class Meta:
         model = Comment
         fields = ("pk", "profile", "post", "text")
@@ -15,7 +13,6 @@ class CommentCreateSerializer(serializers.ModelSerializer):
         fields = ("post", "text")
 
 class PostSerializer(serializers.ModelSerializer):
-    profile = ProfileSerializer(read_only=True)
     comments = CommentSerializer(many=True, read_only=True)
 
     class Meta:
