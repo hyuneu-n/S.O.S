@@ -5,7 +5,7 @@ from .models import Post, Comment
 class CommentSerializer(serializers.ModelSerializer):
     class Meta:
         model = Comment
-        fields = ("pk", "profile", "post", "text")
+        fields = ("pk", "post", "text")
 
 class CommentCreateSerializer(serializers.ModelSerializer):
     class Meta:
@@ -17,9 +17,9 @@ class PostSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Post
-        fields = ("pk", "profile", "title", "body", "image", "published_date", "comments")
+        fields = ("pk", "title", "body", "image", "published_date", "comments")
 
 class PostCreateSerializer(serializers.ModelSerializer):
     class Meta:
         model = Post
-        fields = ("title", "category", "body", "image")
+        fields = ("title", "body", "image")

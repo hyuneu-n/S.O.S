@@ -4,7 +4,6 @@ from rest_framework.generics import get_object_or_404
 from rest_framework.permissions import IsAuthenticated
 from rest_framework.response import Response
 
-from users.models import Profile
 from .models import Post, Comment
 from .permissions import CustomReadOnly
 from .serializers import PostSerializer, PostCreateSerializer, CommentSerializer, CommentCreateSerializer
@@ -18,10 +17,6 @@ class PostViewSet(viewsets.ModelViewSet):
             return PostSerializer
         return PostCreateSerializer
 
-    def perform_create(self, serializer):
-        profile = Profile.objects.get(user=self.request.user)
-        serializer.save(author=self.request.user, profile=profile)
-
 class CommentViewSet(viewsets.ModelViewSet):
     queryset = Comment.objects.all()
     permission_classes = [CustomReadOnly]
@@ -30,7 +25,3 @@ class CommentViewSet(viewsets.ModelViewSet):
         if self.action == 'List' or 'Retrieve':
             return CommentSerializer
         return CommentCreateSerializer
-    
-    def perform_create(self, serializer):
-        profile = Profile.objects.get(user=self.request.user)
-        serializer.save(author=self.request.user, profile=profile)
