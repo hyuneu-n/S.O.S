@@ -14,6 +14,7 @@ class CommentCreateSerializer(serializers.ModelSerializer):
 
 class PostSerializer(serializers.ModelSerializer):
     comments = CommentSerializer(many=True, read_only=True)
+    published_date = serializers.DateTimeField(format="%D %H:%M", read_only=True)
 
     class Meta:
         model = Post
