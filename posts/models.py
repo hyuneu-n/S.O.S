@@ -6,7 +6,7 @@ class Post(models.Model):
     author = models.ForeignKey(User, on_delete=models.CASCADE, related_name='posts')
     title = models.CharField(max_length=100)
     body = models.TextField()
-    image = models.ImageField(upload_to='post/', default='default.png')
+    image = models.ImageField(upload_to='post/')
     published_date = models.DateTimeField(default=timezone.now)
 
 class Comment(models.Model):
