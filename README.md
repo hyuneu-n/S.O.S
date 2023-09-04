@@ -1,7 +1,6 @@
 # stack
-<hr>
 <img src="https://img.shields.io/badge/react-E34F26?style=flat-square&logo=react&logoColor=white"/>
-<h3> 위치 허용</h3>
+# 위치 허용
 <img src ="https://github.com/hackerton-skuniv11/back-end/assets/119941414/bdc08282-4e14-4357-9235-67b74bd82cfc">
 <br>
 <hr>
