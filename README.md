@@ -1,4 +1,4 @@
-### [S.O.S 링크] (https://incandescent-sundae-5a212d.netlify.app)
+<a href ="https://incandescent-sundae-5a212d.netlify.app/">S.O.S 링크 </a>
 # stack
 <div align = center>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
