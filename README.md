@@ -1,9 +1,13 @@
 # stack
 
-<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor="white/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=blck"/>
-<img src="https://img.shields.io/badge/python-E34F26?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JS-E34F26?style=flat-square&logo=JS&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=JS&logoColor=black"/>
+<img src="https://img.shields.io/badge/netlify-00C7B7?style=flat-square&logo=netlify&logoColor=black"/>
+<img src="https://img.shields.io/badge/pythonanywhere-1D9FD7?style=flat-square&logo=pythonanywhere&logoColor=black"/>
+
+
 
 <h3>위치 허용</h3>
 <img src ="https://github.com/hackerton-skuniv11/back-end/assets/119941414/bdc08282-4e14-4357-9235-67b74bd82cfc">
