@@ -1,3 +1,4 @@
+<div align = "center">
 # stack
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
@@ -46,7 +47,7 @@
 <hr>
 <h3>안전 행동 요령 예시</h3>
 <img src ="https://github.com/hackerton-skuniv11/back-end/assets/119941414/053b3832-bee2-463f-aa30-26b68ac48641">
-
+</div>
 
 
 
