@@ -2,6 +2,7 @@
 <h3> 위치 허용</h3>
 <img src ="https://github.com/hackerton-skuniv11/back-end/assets/119941414/bdc08282-4e14-4357-9235-67b74bd82cfc">
 <br>
+<hr>
 <h3> 메인페이지(로그인 기능 구현, 사용자 위치기반 날씨정보 제공, 실시간 재난상황 공유, 대피소 찾기 시스템, 안전 행동 요령)</h3>
 <img src ="https://github.com/hackerton-skuniv11/back-end/assets/119941414/76b74872-ec65-4985-bc31-28965ebf3864","https://github.com/hackerton-skuniv11/back-end/assets/119941414/1ecc1e27-815b-4952-814e-33e826a29ac1">
 
