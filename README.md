@@ -1,4 +1,6 @@
-# back-end
+# stack
+<hr>
+<img src="https://img.shields.io/badge/react-E34F26?style=flat-square&logo=react&logoColor=white"/>
 <h3> 위치 허용</h3>
 <img src ="https://github.com/hackerton-skuniv11/back-end/assets/119941414/bdc08282-4e14-4357-9235-67b74bd82cfc">
 <br>
@@ -19,25 +21,25 @@
 <img src ="https://github.com/hackerton-skuniv11/back-end/assets/119941414/fbb69e35-4c9c-46e1-ac9c-ee54ebc7d0f7">
 <hr>
 <h3>댓글 기능 구현</h3>
-<img src ="https://github.com/hackerton-skuniv11/back-end/assets/119941414/eb7f42c0-ea42-4eba-b428-8f81e01c3b37>
+<img src ="https://github.com/hackerton-skuniv11/back-end/assets/119941414/eb7f42c0-ea42-4eba-b428-8f81e01c3b37">
 <hr>
 <h3>댓글 기능</h3>
-<img src ="https://github.com/hackerton-skuniv11/back-end/assets/119941414/e364a17d-2205-4c77-a859-bbfc0e1e639e>
+<img src ="https://github.com/hackerton-skuniv11/back-end/assets/119941414/e364a17d-2205-4c77-a859-bbfc0e1e639e">
 <hr>
 <h3>게시글 올릴 경우</h3>
-<img src ="https://github.com/hackerton-skuniv11/back-end/assets/119941414/d6e1b7d5-7f1a-499b-b26c-c5cb9f1ca8c8>
+<img src ="https://github.com/hackerton-skuniv11/back-end/assets/119941414/d6e1b7d5-7f1a-499b-b26c-c5cb9f1ca8c8">
 <hr>
 <h3>대피소 찾기 시스템 첫 화면</h3>
-<img src ="https://github.com/hackerton-skuniv11/back-end/assets/119941414/9595fb4b-cc2d-40a3-b672-40afc1455059>
+<img src ="https://github.com/hackerton-skuniv11/back-end/assets/119941414/9595fb4b-cc2d-40a3-b672-40afc1455059">
 <hr>
 <h3>대피소 눌렀을 경우</h3>
-<img src ="https://github.com/hackerton-skuniv11/back-end/assets/119941414/76f41b15-089e-4870-b3c4-b76f06810746>
+<img src ="https://github.com/hackerton-skuniv11/back-end/assets/119941414/76f41b15-089e-4870-b3c4-b76f06810746">
 <hr>
 <h3>안전 행동 요령 첫 화면</h3>
-<img src ="https://github.com/hackerton-skuniv11/back-end/assets/119941414/11601538-79bb-4b47-9286-4b01d9079ba9>
+<img src ="https://github.com/hackerton-skuniv11/back-end/assets/119941414/11601538-79bb-4b47-9286-4b01d9079ba9">
 <hr>
 <h3>안전 행동 요령 예시</h3>
-<img src ="https://github.com/hackerton-skuniv11/back-end/assets/119941414/053b3832-bee2-463f-aa30-26b68ac48641>
+<img src ="https://github.com/hackerton-skuniv11/back-end/assets/119941414/053b3832-bee2-463f-aa30-26b68ac48641">
 
 
 
