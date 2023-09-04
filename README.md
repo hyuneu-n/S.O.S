@@ -8,21 +8,25 @@
 <img src="https://img.shields.io/badge/netlify-00C7B7?style=flat-square&logo=netlify&logoColor=black"/>
 <img src="https://img.shields.io/badge/pythonanywhere-1D9FD7?style=flat-square&logo=pythonanywhere&logoColor=black"/>
 </div>
-<hr>
+
 
 # 위치 허용
 <div align = center>
 <img src ="https://github.com/hackerton-skuniv11/back-end/assets/119941414/bdc08282-4e14-4357-9235-67b74bd82cfc">
 </div>
-<h3>메인페이지(로그인 기능 구현, 사용자 위치기반 날씨정보 제공, 실시간 재난상황 공유, 대피소 찾기 시스템, 안전 행동 요령)</h3>
+# 메인페이지(로그인 기능 구현, 사용자 위치기반 날씨정보 제공, 실시간 재난상황 공유, 대피소 찾기 시스템, 안전 행동 요령)
+<div align = center>
 <img src ="https://github.com/hackerton-skuniv11/back-end/assets/119941414/76b74872-ec65-4985-bc31-28965ebf3864"><img src="https://github.com/hackerton-skuniv11/back-end/assets/119941414/1ecc1e27-815b-4952-814e-33e826a29ac1">
-<hr>
-<h3>로그인 화면</h3>
+</div>
+
+# 로그인 화면
+<div align = center>
 <img src="https://github.com/hackerton-skuniv11/back-end/assets/119941414/23874336-ac9c-4b7e-a119-ada64441bf78">
-<hr>
-<h3>회원 가입 화면</h3>
+</div>
+# 회원 가입 화면
+<div align = center>
 <img src ="https://github.com/hackerton-skuniv11/back-end/assets/119941414/a3c1491c-02c7-46e1-a81b-51b186839d7c">
-<hr>
+</div>
 <h3>로그인이 되었을 경우</h3>
 <img src ="https://github.com/hackerton-skuniv11/back-end/assets/119941414/535da13e-071e-4552-ae6d-72568266237e">
 <hr>
