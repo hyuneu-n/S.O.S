@@ -1,6 +1,6 @@
 # stack
 
-<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor="white/>
+<img src="https://img.shields.io/badge/react-#61DAFB?style=flat-square&logo=react&logoColor="white/>
 <img src="https://img.shields.io/badge/django-E34F26?style=flat-square&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-E34F26?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JS-E34F26?style=flat-square&logo=JS&logoColor=white"/>
