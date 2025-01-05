@@ -1,4 +1,7 @@
 # S.O.S ("https://incandescent-sundae-5a212d.netlify.app/")
+
+[서경대학교_ S.O.S.pdf](https://github.com/user-attachments/files/18310458/_.S.O.S.pdf)
+
 # stack
 <div align = center>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
